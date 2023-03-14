@@ -5,7 +5,7 @@ import "./tailwind.css";
 function App() {
   return (
     <div className="App" class="p-4">
-      <div class="w-[100vw] mx-auto">
+      <div class="w-64 mx-auto">
         <p class="w-60 flex text-2xl text-center bg-sky-100">Zoe的Tailwind練習~~</p>
       </div>
       <p>1.</p>
